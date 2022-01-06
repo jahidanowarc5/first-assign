@@ -1,0 +1,51 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: thistle;
+}
+h1{
+    font-size: 50px;
+}
+.orange-color{
+    color: orange;
+}
+section{
+    display:flex;
+    margin-bottom: 100px;
+}
+.half-width{
+    width:50%;
+    padding: 5%;
+}
+.half-width img{
+    width: 75%;
+}
+.dream-button{
+    text-decoration: none;
+    background-image:linear-gradient(orange, red);
+    padding: 10px 40px;
+    border-radius: 5px;
+    font-weight: 700;
+    color:white;
+
+}
+.one-sixth-width{
+    width:20%;
+    margin-left: 1%;
+    margin-right: 1%;
+    padding: 2%;
+    box-shadow: 10px 10px 40px gray;
+}
+.achive-destiny{
+    background-image: url(images/shape-1.png);
+    background-repeat: no-repeat ;
+    background-position: left;
+
+}
+.final-img{
+    background-image: url(images/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+footer p{
+    text-align: center;
+}
